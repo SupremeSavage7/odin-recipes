@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- This project will consist a main index paage which will have links to a few recipes.With the goal of creating a basic recipe website.This project will demonstrate the practice and knowledge of Command Line/Git Basics, Creating,Navigating and Working Files and Directories. It will also demonstrate the   -->
